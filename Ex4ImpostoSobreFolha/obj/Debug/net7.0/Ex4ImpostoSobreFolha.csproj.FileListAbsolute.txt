@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\bin\Debug\net7.0\Ex4ImpostoSobreFolha.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\bin\Debug\net7.0\Ex4ImpostoSobreFolha.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\bin\Debug\net7.0\Ex4ImpostoSobreFolha.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\bin\Debug\net7.0\Ex4ImpostoSobreFolha.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\bin\Debug\net7.0\Ex4ImpostoSobreFolha.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\Ex4ImpostoSobreFolha.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\Ex4ImpostoSobreFolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\Ex4ImpostoSobreFolha.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\Ex4ImpostoSobreFolha.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\Ex4ImpostoSobreFolha.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\Ex4ImpostoSobreFolha.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\refint\Ex4ImpostoSobreFolha.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\Ex4ImpostoSobreFolha.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\Ex4ImpostoSobreFolha.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex4ImpostoSobreFolha\obj\Debug\net7.0\ref\Ex4ImpostoSobreFolha.dll

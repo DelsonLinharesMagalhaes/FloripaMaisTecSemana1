@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\bin\Debug\net7.0\Ex2AreaDoTriangulo.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\bin\Debug\net7.0\Ex2AreaDoTriangulo.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\bin\Debug\net7.0\Ex2AreaDoTriangulo.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\bin\Debug\net7.0\Ex2AreaDoTriangulo.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\bin\Debug\net7.0\Ex2AreaDoTriangulo.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\Ex2AreaDoTriangulo.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\Ex2AreaDoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\Ex2AreaDoTriangulo.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\Ex2AreaDoTriangulo.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\Ex2AreaDoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\Ex2AreaDoTriangulo.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\refint\Ex2AreaDoTriangulo.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\Ex2AreaDoTriangulo.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\Ex2AreaDoTriangulo.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex2AreaDoTriangulo\obj\Debug\net7.0\ref\Ex2AreaDoTriangulo.dll

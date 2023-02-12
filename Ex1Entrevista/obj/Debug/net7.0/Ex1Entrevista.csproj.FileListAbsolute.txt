@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\Ex1Entrevista.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\Ex1Entrevista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\Ex1Entrevista.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\Ex1Entrevista.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\Ex1Entrevista.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\bin\Debug\net7.0\Ex1Entrevista.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\bin\Debug\net7.0\Ex1Entrevista.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\bin\Debug\net7.0\Ex1Entrevista.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\bin\Debug\net7.0\Ex1Entrevista.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\bin\Debug\net7.0\Ex1Entrevista.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\Ex1Entrevista.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\refint\Ex1Entrevista.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\Ex1Entrevista.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\Ex1Entrevista.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex1Entrevista\obj\Debug\net7.0\ref\Ex1Entrevista.dll

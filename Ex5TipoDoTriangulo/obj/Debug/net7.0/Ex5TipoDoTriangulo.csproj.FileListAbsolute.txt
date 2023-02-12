@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\bin\Debug\net7.0\Ex5TipoDoTriangulo.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\bin\Debug\net7.0\Ex5TipoDoTriangulo.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\bin\Debug\net7.0\Ex5TipoDoTriangulo.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\bin\Debug\net7.0\Ex5TipoDoTriangulo.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\bin\Debug\net7.0\Ex5TipoDoTriangulo.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\Ex5TipoDoTriangulo.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\Ex5TipoDoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\Ex5TipoDoTriangulo.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\Ex5TipoDoTriangulo.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\Ex5TipoDoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\Ex5TipoDoTriangulo.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\refint\Ex5TipoDoTriangulo.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\Ex5TipoDoTriangulo.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\Ex5TipoDoTriangulo.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex5TipoDoTriangulo\obj\Debug\net7.0\ref\Ex5TipoDoTriangulo.dll

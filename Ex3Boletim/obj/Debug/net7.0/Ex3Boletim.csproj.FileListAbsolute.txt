@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\bin\Debug\net7.0\Ex3Boletim.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\bin\Debug\net7.0\Ex3Boletim.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\bin\Debug\net7.0\Ex3Boletim.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\bin\Debug\net7.0\Ex3Boletim.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\bin\Debug\net7.0\Ex3Boletim.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\Ex3Boletim.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\Ex3Boletim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\Ex3Boletim.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\Ex3Boletim.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\Ex3Boletim.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\Ex3Boletim.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\refint\Ex3Boletim.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\Ex3Boletim.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\Ex3Boletim.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex3Boletim\obj\Debug\net7.0\ref\Ex3Boletim.dll

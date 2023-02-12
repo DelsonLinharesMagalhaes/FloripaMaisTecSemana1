@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\bin\Debug\net7.0\Ex6Tabuada.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\bin\Debug\net7.0\Ex6Tabuada.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\bin\Debug\net7.0\Ex6Tabuada.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\bin\Debug\net7.0\Ex6Tabuada.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\bin\Debug\net7.0\Ex6Tabuada.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\Ex6Tabuada.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\Ex6Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\Ex6Tabuada.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\Ex6Tabuada.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\Ex6Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\Ex6Tabuada.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\refint\Ex6Tabuada.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\Ex6Tabuada.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\Ex6Tabuada.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Ex6Tabuada\obj\Debug\net7.0\ref\Ex6Tabuada.dll
