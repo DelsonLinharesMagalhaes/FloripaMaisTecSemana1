@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex6Tabuada\\Ex6Tabuada.csproj": {}
+    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex9Banco(Desafio)\\Ex9Banco(Desafio).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex6Tabuada\\Ex6Tabuada.csproj": {
+    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex9Banco(Desafio)\\Ex9Banco(Desafio).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex6Tabuada\\Ex6Tabuada.csproj",
-        "projectName": "Ex6Tabuada",
-        "projectPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex6Tabuada\\Ex6Tabuada.csproj",
+        "projectUniqueName": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex9Banco(Desafio)\\Ex9Banco(Desafio).csproj",
+        "projectName": "Ex9Banco(Desafio)",
+        "projectPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex9Banco(Desafio)\\Ex9Banco(Desafio).csproj",
         "packagesPath": "C:\\Users\\Delson Magalhaes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex6Tabuada\\obj\\",
+        "outputPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex9Banco(Desafio)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Delson Magalhaes\\AppData\\Roaming\\NuGet\\NuGet.Config",

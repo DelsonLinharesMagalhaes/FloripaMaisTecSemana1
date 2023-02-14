@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Ex6Tabuada\\Ex6Tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex6Tabuada\\Ex6Tabuada.csproj",
       "projectName": "Ex6Tabuada",
-      "projectPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Ex6Tabuada\\Ex6Tabuada.csproj",
+      "projectPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex6Tabuada\\Ex6Tabuada.csproj",
       "packagesPath": "C:\\Users\\Delson Magalhaes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Ex6Tabuada\\obj\\",
+      "outputPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex6Tabuada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Delson Magalhaes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Delson Magalhaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

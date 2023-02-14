@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Ex8Fibonacci\\Ex8Fibonacci.csproj": {}
+    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex8Fibonacci\\Ex8Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Ex8Fibonacci\\Ex8Fibonacci.csproj": {
+    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex8Fibonacci\\Ex8Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Ex8Fibonacci\\Ex8Fibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex8Fibonacci\\Ex8Fibonacci.csproj",
         "projectName": "Ex8Fibonacci",
-        "projectPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Ex8Fibonacci\\Ex8Fibonacci.csproj",
+        "projectPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex8Fibonacci\\Ex8Fibonacci.csproj",
         "packagesPath": "C:\\Users\\Delson Magalhaes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Ex8Fibonacci\\obj\\",
+        "outputPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana1C#\\Ex8Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Delson Magalhaes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Delson Magalhaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\bin\Debug\net7.0\Ex8Fibonacci.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\bin\Debug\net7.0\Ex8Fibonacci.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\bin\Debug\net7.0\Ex8Fibonacci.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\bin\Debug\net7.0\Ex8Fibonacci.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\bin\Debug\net7.0\Ex8Fibonacci.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\Ex8Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\Ex8Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\Ex8Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\Ex8Fibonacci.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\Ex8Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\Ex8Fibonacci.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\refint\Ex8Fibonacci.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\Ex8Fibonacci.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\Ex8Fibonacci.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex8Fibonacci\obj\Debug\net7.0\ref\Ex8Fibonacci.dll

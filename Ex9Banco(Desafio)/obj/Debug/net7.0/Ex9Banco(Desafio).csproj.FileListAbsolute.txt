@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\bin\Debug\net7.0\Ex9Banco(Desafio).exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\bin\Debug\net7.0\Ex9Banco(Desafio).deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\bin\Debug\net7.0\Ex9Banco(Desafio).runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\bin\Debug\net7.0\Ex9Banco(Desafio).dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\bin\Debug\net7.0\Ex9Banco(Desafio).pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\Ex9Banco(Desafio).csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\Ex9Banco(Desafio).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\Ex9Banco(Desafio).AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\Ex9Banco(Desafio).AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\Ex9Banco(Desafio).csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\Ex9Banco(Desafio).dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\refint\Ex9Banco(Desafio).dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\Ex9Banco(Desafio).pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\Ex9Banco(Desafio).genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana1C#\Ex9Banco(Desafio)\obj\Debug\net7.0\ref\Ex9Banco(Desafio).dll
